@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "3a3f095a-82f8-4e17-8bde-a9ef2bfc22e5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7ed0c319-ab01-4f9f-b3b0-0f34108f466c",
+    "website": "women-and-global-activism-in-art-media-and-politics"
+  },
+  "course_title": "Women and Global Activism in Art, Media and Politics",
+  "hide_download": false,
+  "course_description": "This course explores theoretical issues and concerns underlying global feminisms, and their expression through diverse forms of feminist activism at the community, national, and transnational levels. A comparative perspective is used to examine the following questions: How are women's issues understood and articulated in different contexts? What are the linkages between women's multiple identities (class, race, caste, ethnicity, religion, location) and feminist activism? How do conflict, religious fundamentalism, and militarization of societies impact women's lives? Further, the course explores the role of the state in influencing the course and direction of women's movements, and women's mobilization within and across national boundaries for social and gender justice. The challenges and dilemmas facing contemporary women's activism are also addressed.\n\nIn this semester the course will devote a section of the course to the Black Lives Matter struggle in the US and its global impact.",
+  "department_numbers": [
+    "WGS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "WGS.109",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "women-and-global-activism-in-art-media-and-politics"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Readings",
+    "Written Assignments"
+  ],
+  "site_uid": "1ba06202-25e4-48a5-bcac-216cd66523de",
+  "site_short_id": "wgs.109-fall-2023"
+}
