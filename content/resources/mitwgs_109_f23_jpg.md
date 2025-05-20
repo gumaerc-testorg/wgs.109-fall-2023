@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/wgs-109-women-and-global-activism-in-art-media-and-politics-fall-2023/mitwgs_109_f23.jpg
+file: courses/women-and-global-activism-in-art-media-and-politics/mitwgs_109_f23.jpg
 file_size: 311922
 file_type: image/jpeg
 image_metadata:
