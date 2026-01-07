@@ -7,9 +7,9 @@ file_size: 311922
 file_type: image/jpeg
 image_metadata:
   caption: 'The Maestra Peace Mural, on the side of the The Women''s Building in San
-    Francisco, California, was created by artist Juana Alicia in 1994. (Image by {{%
-    resource_link "e3ef5a6f-5214-4474-ae17-58778c818081" "Steve Rhodes" %}} on flickr.
-    License: CC BY-NC-SA.)'
+    Francisco, California, was created by artist Juana Alicia in 1994. (Image by [Steve
+    Rhodes](https://www.flickr.com/photos/ari/2134058926/) on flickr. License: CC
+    BY-NC-SA.)'
   credit: 'Image by Steve Rhodes on flickr. License: CC BY-NC-SA.'
   image-alt: A mural on the side of a building featuring six women dressed in different
     outfits, including indigenous dress and a woman in medical scrubs. A sign reads
