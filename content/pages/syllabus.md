@@ -18,7 +18,7 @@ There are no prerequisites for this course.
 
 ### Criteria for Communications Intensive Subjects
 
-Since this is a {{% resource_link "b4de413b-c46d-4928-85ac-37d70a9d80cd" "Communications Intensive" %}} course, it must meet the following mechanical criteria. This includes at least 20 pages of writing divided among 3–5 assignments. Of these assignments, at least one must be revised and resubmitted. The course should further offer students substantial opportunity for oral expression, through presentations, student-led discussion, or class.
+Since this is a [Communications Intensive](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement) course, it must meet the following mechanical criteria. This includes at least 20 pages of writing divided among 3–5 assignments. Of these assignments, at least one must be revised and resubmitted. The course should further offer students substantial opportunity for oral expression, through presentations, student-led discussion, or class.
 
 ### Evaluation
 
